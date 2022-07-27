@@ -15,11 +15,11 @@
     "vue-tsc": "^0.38.4"
   },
   "main": "index.js",
-  "name": "auto-export",
+  "name": "ts-auto-export",
   "scripts": {
     "build": "tsup",
     "dev": "vite",
     "release": "bumpp && npm publish"
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }

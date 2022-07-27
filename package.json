@@ -1,0 +1,25 @@
+{
+  "author": "mrCat33",
+  "dependencies": {
+    "@types/node": "^18.6.1",
+    "fast-glob": "^3.2.11",
+    "vue": "^3.2.37"
+  },
+  "description": "autoExport typescript code",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.0",
+    "bumpp": "^8.2.1",
+    "tsup": "^6.2.0",
+    "typescript": "^4.6.4",
+    "vite": "^3.0.0",
+    "vue-tsc": "^0.38.4"
+  },
+  "main": "index.js",
+  "name": "auto-export",
+  "scripts": {
+    "build": "tsup",
+    "dev": "vite",
+    "release": "bumpp && npm publish"
+  },
+  "version": "1.0.0"
+}

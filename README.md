@@ -7,4 +7,4 @@
 # 演示
 ![image ](https://lingo-1312160710.cos.ap-nanjing.myqcloud.com/uPic/autoExportExample.gif)
 
-# 使用
+# uses

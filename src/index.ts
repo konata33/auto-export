@@ -1,3 +1,3 @@
-import autoExport from "./plugin/autoExport";
+import autoExport from "./autoExport";
 
 export default autoExport

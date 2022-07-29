@@ -16,7 +16,7 @@ async function autoExport(){
   const arr = await fg.sync(`*/${userOptions.fileName}.ts`,{onlyFiles:true,cwd:`${userOptions.filePath}`})
 
   for(let key in arr){
-    fs.unlinkSync(`./src/${arr[key]}`)
+    fs.unlinkSync(`./${userOptions.filePath}/${arr[key]}`)
   }
   for(let key in entries){
     const fileName = entries[key].split('/')[0]

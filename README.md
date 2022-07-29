@@ -5,6 +5,6 @@
 🚀 实时推导新增/删除功能模块
 
 # 演示
-![image](https://cdn.jsdelivr.net/gh/Mrcat33/oss@master/uPic/autoExportExample.gif)
+![image](https://github.com/MrCat33/oss/blob/master/uPic/autoExportExample.gif)
 
 # uses

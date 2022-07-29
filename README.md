@@ -5,7 +5,7 @@
  <li>⚡️  &nbsp only support in vite</li>
 </ul>
 
-## 演示
+## demo
 ![image](https://github.com/MrCat33/oss/blob/master/uPic/autoExportExample.gif)
 
 ## Installation

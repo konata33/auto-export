@@ -5,6 +5,6 @@
 🚀 实时推导新增/删除功能模块
 
 # 演示
-![image ](https://lingo-1312160710.cos.ap-nanjing.myqcloud.com/uPic/autoExportExample.gif)
+![image](https://github.com/MrCat33/oss/blob/master/uPic/autoExportExample.gif)
 
 # uses

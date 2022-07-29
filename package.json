@@ -5,6 +5,8 @@
     "fast-glob": "^3.2.11"
   },
   "description": "autoExport typescript code",
+  "homepage": "https://github.com/MrCat33/auto-export",
+  "repository": "github:MrCat33/auto-export",
   "devDependencies": {
     "bumpp": "^8.2.1",
     "chokidar": "^3.5.3",
@@ -27,14 +29,15 @@
     "vite-plugin",
     "typescript"
   ],
+  "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
-  "name": "ts-auto-exports",
+  "name": "ts-auto-export",
   "scripts": {
     "build": "tsup",
     "dev": "vite",
     "release": "bumpp && npm publish"
   },
   "types": "dist/index.d.ts",
-  "version": "1.0.10"
+  "version": "0.0.1"
 }

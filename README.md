@@ -12,7 +12,6 @@
 
 ```
 npm install ts-auto-export -D  
-
 //or
 npm install --save-dev ts-auto-export
 ```

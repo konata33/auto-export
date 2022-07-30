@@ -1,3 +1,3 @@
-import autoExport from "./autoExport";
+import autoExport from './autoExport'
 
 export default autoExport

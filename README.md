@@ -10,8 +10,8 @@
 
 ## Installation
 
-```ts
-pnpm add ts-auto-export -D  
+```
+npm install ts-auto-export -D  
 
 //or
 npm install --save-dev ts-auto-export
@@ -26,8 +26,9 @@ import { defineConfig } from 'vite'
 import autoExport from 'ts-auto-export'
 
 export default defineConfig({
-  ...
-  plugins:[autoExport()] //default watch `src` directory then generate index.ts file
+  plugins: [autoExport()]
+  // default watch `src` directory then generate index.ts file
+  // for example : autoExport({fileName:"type",filePath:"package/core"}
 })
 ```
 

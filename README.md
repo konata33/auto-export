@@ -1,8 +1,7 @@
 ## Features
 <ul>
- <li>🔧 auto export module and function </li>  
+ <li>⚡️  auto export module and function </li>  
  <li>✨ Execute in the specified directory</li>  
- <li>⚡️  only support in vite</li>
 </ul>
 
 ## demo

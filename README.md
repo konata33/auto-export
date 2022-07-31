@@ -8,7 +8,6 @@
 ![image](https://github.com/MrCat33/oss/blob/master/uPic/autoExportExample.gif)
 
 ## Installation
-
 ```
 npm install ts-auto-export -D  
 //or

@@ -28,7 +28,7 @@ async function autoExport() {
   }
 }
 
-/** watch file add/edit then autoExport  */
+/** watch file add/edit then autoExports  */
 async function watchExport() {
   const dirPath = path.resolve(__dirname, '../', `./${userOptions.filePath}`)
   chokidar.watch(dirPath, { ignored: `${userOptions.fileName}.ts` })
